@@ -20,7 +20,7 @@ namespace Prototype
             
             Console.WriteLine(customer.FirstName + " " + customer.LastName);
             Console.WriteLine(customer1.FirstName + " " + customer1.LastName);
-            Console.WriteLine(customer2.FirstName + " " + customer2.LastName + " " + customer2.Salary);
+            Console.WriteLine(customer2.FirstName + " " + customer2.LastName );
             Console.ReadLine();
 
         }
